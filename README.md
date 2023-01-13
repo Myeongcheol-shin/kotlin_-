@@ -2,4 +2,4 @@
 
 코드에 대한 설명은 블로그에 업로드되어있습니다.
 
-https://shino72.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+https://shino72.tistory.com/category/%EB%B0%B1%EC%A4%80
